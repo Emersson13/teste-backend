@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ClientTest::testVerificarCamposVazio":3,"ClientTest::testContarItensPreferencia":4,"ClientTest::testVerificarTotalCompras":3},"times":{"ClientTest::testVerificarCamposVazio":0.004,"ClientTest::testContarItensPreferencia":0,"ClientTest::testVerificarTotalCompras":0}}
